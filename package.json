@@ -1,0 +1,19 @@
+{
+  "name": "canvas-image-cover",
+  "version": "1.0.0",
+  "description": "like 'background-size:cover;' but for canvas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aledefreitas/canvas-image-cover.git"
+  },
+  "author": "Ben McMahen <https://github.com/bmcmahen>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aledefreitas/canvas-image-cover/issues"
+  },
+  "homepage": "https://github.com/aledefreitas/canvas-image-cover#readme"
+}
